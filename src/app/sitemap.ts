@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://najaevents.com';
+    const baseUrl = 'https://naja-events.vercel.app';
 
     return [
         {

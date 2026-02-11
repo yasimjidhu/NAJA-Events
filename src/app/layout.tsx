@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://najaevents.com'),
+  metadataBase: new URL('https://naja-events.vercel.app'),
   title: "Naja Events | Premium Light & Sound Solutions for Events",
   description: "Professional light and sound rental services for weddings, concerts, corporate events & festivals. Premium audio systems, dynamic lighting design & complete event production. 15+ years experience. Book now!",
   keywords: [
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://najaevents.com",
+    url: "https://naja-events.vercel.app",
     title: "Naja Events | Premium Light & Sound Solutions",
     description: "Professional light and sound rental services for all events. Premium equipment, expert team, 15+ years experience.",
     siteName: "Naja Events",
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     creator: "@najaevents",
   },
   alternates: {
-    canonical: "https://najaevents.com",
+    canonical: "https://naja-events.vercel.app",
   },
   verification: {
     google: "your-google-verification-code",

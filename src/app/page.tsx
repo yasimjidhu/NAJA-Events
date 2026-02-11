@@ -22,7 +22,7 @@ const jsonLd = {
   "@type": "LocalBusiness",
   name: "Naja Events",
   description: "Professional light and sound rental services for all types of events",
-  url: "https://najaevents.com",
+  url: "https://naja-events.vercel.app",
   telephone: "+1-234-567-890",
   email: "info@najaevents.com",
   address: {
@@ -53,7 +53,7 @@ const jsonLd = {
     },
   ],
   priceRange: "$$",
-  image: "https://najaevents.com/images/hero.png",
+  image: "https://naja-events.vercel.app/images/hero.png",
   sameAs: [
     "https://facebook.com/najaevents",
     "https://instagram.com/najaevents",
